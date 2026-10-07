@@ -1,0 +1,6 @@
+{
+  "name": "Học Đại Học PRO - Phương Pháp Học Tập Đỉnh Cao",
+  "description": "Nền tảng phương pháp học tập khoa học, quản lý thời gian, công cụ tương tác Pomodoro, Planner, tính GPA và cẩm nang toàn diện dành cho sinh viên Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
